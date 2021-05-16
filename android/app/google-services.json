@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757741849330",
+    "project_id": "zaloum-for-shopping",
+    "storage_bucket": "zaloum-for-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757741849330:android:79b627517386f4ef755e6b",
+        "android_client_info": {
+          "package_name": "com.example.zaloum_for_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757741849330-asggi4csdgsu2d464ikj4umt4bqq60mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9jvPVK_6gHxSgsBbTgRTMCxsI48_Mg9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757741849330-asggi4csdgsu2d464ikj4umt4bqq60mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
